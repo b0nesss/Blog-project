@@ -27,7 +27,7 @@ const username=userInfo?.username;
 
     return(
         <header>
-        <Link to="/" className="logo">ZaZa Blogs</Link>
+        <Link to="/" className="logo">Bool Blogs</Link>
         <nav>
             {username && (
                 <>
